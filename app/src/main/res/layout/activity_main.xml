@@ -8,6 +8,7 @@
     tools:context=".MainActivity">
 
     <TextView
+        app:layout_constraintHorizontal_chainStyle="spread_inside"
         android:id="@+id/text_view_a"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
